@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm VV! 👋</h1>
 <h3 align="center">Software Engineering Student | Backend & DevOps Enthusiast</h3>
 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning **C**
 - 👀 I’m interested in ML, Backend, DevOps
 
 ### Languages
