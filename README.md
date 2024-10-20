@@ -1,16 +1,14 @@
 <h1 align="center">Hi there, I'm VV! 👋</h1>
 <h3 align="center">Software Engineering Student | Backend, ML & DevOps Explorer</h3>
 
-- 🌱 Currently learning: **C**
-  at <a href="https://21-school.ru/">School 21 <img src="./icons/school21.svg" alt="School 21" width="10px"></a>
+- 🌱 Currently learning: **C** at <a href="https://21-school.ru/">School 21 <img src="./icons/school21.svg" alt="School 21" width="10px"></a>
 - 👀 Interested in: Backend, ML, and DevOps
 - 📇 I’m currently working on a subscription-based service that combines my passion for backend development and DevOps.
 
 ### My SaaS Project
 
 - **Service with 600+ users**
-- Built using PostgreSQL, Docker, and Telegram bots with **aiogram**, **SQLAlchemy**, and *
-  *[Project Fluent](https://projectfluent.org/)** for
+- Built using PostgreSQL, Docker, and Telegram bots with **aiogram**, **SQLAlchemy**, and **[Project Fluent](https://projectfluent.org/)** for
   internationalization.
 - Managed configurations through `.env` and `.yml` files for flexible and efficient environment setup.
 - Security and isolation via Docker Network for the database, with seamless updates managed through GitLab.
