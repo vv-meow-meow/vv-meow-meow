@@ -33,4 +33,5 @@ You can click the Preview link to take a look at your changes.
 Used sites:
 - Simple icons – https://simpleicons.org/
 - Markdown Badges – https://ileriayo.github.io/markdown-badges/
+- Habr – https://habr.com/ru/articles/649363/
 --->
