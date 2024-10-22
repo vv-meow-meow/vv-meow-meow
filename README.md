@@ -35,14 +35,6 @@
   <a href="https://www.rabbitmq.com/"><img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"></a>
 </p>
 
-### Tools
-
-<p>
-  <a href="https://www.jetbrains.com/pycharm/"> <img src="icons/pycharm.svg" alt="PyCharm" width="32" height="32"></a>
-  <a href="https://www.jetbrains.com/clion/"> <img src="icons/clion.svg" alt="CLion" width="32" height="32"></a>
-  <a href="https://termius.com/"> <img src="icons/termius.svg" alt="Termius" width="32" height="32"></a>
-</p>
-
 <!---
 vv-meow-meow/vv-meow-meow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
