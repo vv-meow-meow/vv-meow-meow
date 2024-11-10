@@ -35,6 +35,11 @@
   <a href="https://www.rabbitmq.com/"><img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"></a>
 </p>
 
+<p>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></a>
+  <a href="https://reactrouter.com/en/main"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"></a>
+</p>
+
 <!---
 vv-meow-meow/vv-meow-meow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -47,5 +52,5 @@ Used sites:
 - Habr – https://habr.com/ru/articles/649363/
 
 Useful code:
-<a href=""> <img src="" alt=""> </a>
+<a href=""><img src="" alt=""></a>
 --->
