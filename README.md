@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm VV! 👋</h1>
+<h1 align="center">你好, I'm VV! 👋</h1>
 <h3 align="center">Software Engineering Student | Backend & DevOps Explorer</h3>
 
 - 🌱 Currently learning: **C** at
