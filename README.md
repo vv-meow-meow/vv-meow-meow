@@ -1,8 +1,7 @@
 <h1 align="center">你好, I'm VV! 👋</h1>
 <h3 align="center">Software Engineering Student | Backend & DevOps Explorer</h3>
 
-- 🌱 Currently learning: **C** at
-  <a href="https://21-school.ru/">School 21 <img src="./icons/school21.svg" alt="School 21" width="10px"></a>
+- 🌱 Currently learning: **Go**
 - 👀 Interested in: Backend and DevOps
 - 📇 I’m currently working on a subscription-based service that combines my passion for backend development and DevOps.
 
