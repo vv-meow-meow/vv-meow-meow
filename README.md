@@ -3,7 +3,6 @@
 
 - 🌱 Currently learning: **Go**
 - 👀 Interested in: Backend and DevOps
-- 📇 I’m currently working on a subscription-based service that combines my passion for backend development and DevOps.
 
 ### My SaaS Project
 
