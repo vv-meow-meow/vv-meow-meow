@@ -6,7 +6,7 @@
 
 ### My SaaS Project
 
-- **Service with 1000+ users**
+- **Service with 1100+ users**
 - Built using PostgreSQL, Docker, and Telegram bots with **AIOgram**, **SQLAlchemy**,
   and **[Project Fluent](https://projectfluent.org/)** for internationalization.
 - Managed configurations through `.env` and `.yml` files for flexible and efficient environment setup.
